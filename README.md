@@ -1,6 +1,6 @@
 # MSE 510
 
-Repository containing homework assignments and course materials for **MSE 510** at the **University of Tennessee, Knoxville (UTK)**.
+Repository containing homework assignments and course materials for **MSE 510** at the **University of Tennessee, Knoxville (UTK)** for spring 2026.
 
 Course instructor: **Prof. Sergei V. Kalinin**
 
